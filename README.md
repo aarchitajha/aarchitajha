@@ -3,7 +3,7 @@
 # Hi there, I'm Archita Jha 👋
 
 <a href="https://github.com/aarchitajha">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=T.Y.+B.Tech+CS+(AI+%26+Data+Science)+%7C+Class+of+2028;Full-Stack+Developer+%26+AI%2FML+Builder;Computer+Vision+%E2%80%A2+Spatial+Computing+%E2%80%A2+Web+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=T.Y.+B.Tech+CS+(AI+%26+Data+Science)+%7C+Class+of+2028;+%26+AI%2FML+Builder;Computer+Vision+%E2%80%A2+Spatial+Computing+%E2%80%A2+Web+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
